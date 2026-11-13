@@ -26,7 +26,7 @@ table.info td,table.info th{letter-spacing:.01em}
 table.info td{font-size:clamp(14px,1.15vw,17px)}
 .f-brand b{letter-spacing:.04em}.f-brand p,.block p{letter-spacing:.01em}
 .f-brand a,.block .mail,table.info td a{overflow-wrap:anywhere}
-section{scroll-margin-top:86px}
+section,#contact{scroll-margin-top:86px}
 .drawer{z-index:200}
 .drawer a{font-family:Mulish,sans-serif;font-size:24px;letter-spacing:.03em}
 .drawer .close{font-size:32px;top:16px;right:20px}
