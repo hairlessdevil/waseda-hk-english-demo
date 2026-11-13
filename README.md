@@ -8,7 +8,7 @@ This repository hosts an English demonstration of the source website. It is not 
 
 Open `index.html` in a browser, or serve this folder with any static web server. No installation or build step is required. All images, fonts, styles and scripts are included locally.
 
-The original layout, colors, imagery and section order are retained. Visible page text, navigation, image descriptions and metadata are translated into English. English line lengths and spacing are adapted for desktop and mobile. Original Japanese lettering within the emblem and map graphic is preserved as branding.
+The layout, colors, imagery and order of the remaining sections follow the source site. The Directors section is intentionally omitted from this demo. Visible page text, navigation, image descriptions and metadata are translated into English. English line lengths and spacing are adapted for desktop and mobile. Original Japanese lettering within the emblem and map graphic is preserved as branding.
 
 Navigation, mobile menu, section links and email links work. The contact buttons open an email app; this static version does not include a form or WordPress content management system. News entries reflect the source site at the inspection date.
 
